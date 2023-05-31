@@ -1,4 +1,4 @@
-# Design-Underground-Time-Manager-System
+# Underground-Time-Manager-System-Design
 This is a Java implementation of the UndergroundSystem class that manages the check-in and check-out process of customers in an underground transportation system. It also provides a method to calculate the average travel time between two stations.
 ## Implementation Details
 The UndergroundSystem class is implemented using the following data structures:
